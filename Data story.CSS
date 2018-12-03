@@ -1,0 +1,33 @@
+*, :after, :before, html {
+    box-sizing: border-box;
+}
+
+*, :after, :before, html {
+    box-sizing: border-box;
+}
+
+*, :after, :before, html {
+    box-sizing: border-box;
+}
+.content.article div.padded p {
+    max-width: 640px;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+p {
+  margin:30px 20px;
+}
+
+body {font-family: "Times New Roman", Georgia, Serif;}
+
+h2 {
+    font-family: "Playfair Display";
+    letter-spacing: 5px;}
+h3 {
+    font-family: "Playfair Display";
+    font-size: 18px;
+    letter-spacing: 2px;
+    font-weight:bold;}
